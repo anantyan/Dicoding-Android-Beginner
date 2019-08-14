@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="txt_ini_deskripsi">Ini deskripsi</string>
+    <string name="txt_ini_nama">Ini nama</string>
+    <string name="txt_list">List</string>
+    <string name="txt_grid">Grid</string>
+    <string name="txt_card_view">Card View</string>
+    <string name="txt_detail">Detail</string>
+</resources>

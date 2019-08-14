@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="txt_wall">Wallpapper</string>
+    <string name="txt_deskripsi">Lorem Ipsum adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting. Lorem Ipsum telah menjadi standar contoh teks sejak tahun 1500an, saat seorang tukang cetak yang tidak dikenal mengambil sebuah kumpulan teks dan mengacaknya untuk menjadi sebuah buku contoh huruf. Ia tidak hanya bertahan selama 5 abad, tapi juga telah beralih ke penataan huruf elektronik, tanpa ada perubahan apapun. Ia mulai dipopulerkan pada tahun 1960 dengan diluncurkannya lembaran-lembaran Letraset yang menggunakan kalimat-kalimat dari Lorem Ipsum, dan seiring munculnya perangkat lunak Desktop Publishing seperti Aldus PageMaker juga memiliki versi Lorem Ipsum.</string>
+    <string name="txt_735">$735</string>
+    <string name="txt_stock_hanya_5_buah">Stock hanya 5 buah</string>
+    <string name="txt_spesifikasi">Spesifikasi</string>
+    <string name="txt_display">Display</string>
+    <string name="txt_size">Size</string>
+    <string name="profile">Profile</string>
+    <string name="txt_beli">Beli</string>
+</resources>
